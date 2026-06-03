@@ -1,10 +1,10 @@
 # Three Tier Architecture AWS
 
 
-[![CI-CD pipeline](https://github.com/HasanAshab/three-tier-devops-aws/actions/workflows/terraform-cicd.yaml/badge.svg)](https://github.com/HasanAshab/three-tier-aws/actions/workflows/terraform-cicd.yaml)
-[![Drift Detection](https://github.com/HasanAshab/three-tier-devops-aws/actions/workflows/terraform-drift.yaml/badge.svg)](https://github.com/HasanAshab/three-tier-aws-infra/actions/workflows/terraform-drift.yaml)
+[![CI-CD pipeline](https://github.com/sharmadivyam216-dot/aws-devops-project/actions/workflows/terraform-cicd.yaml/badge.svg)](https://github.com/sharmadivyam216-dot/aws-devops-project/actions/workflows/terraform-cicd.yaml)
+[![Drift Detection](https://github.com/sharmadivyam216-dot/aws-devops-project/actions/workflows/terraform-drift.yaml/badge.svg)](https://github.com/sharmadivyam216-dot/aws-devops-project-infra/actions/workflows/terraform-drift.yaml)
 
-This folder contains the infrastructure (IaC) for [Spring + React App](https://github.com/HasanAshab/three-tier-aws/) project.
+This folder contains the infrastructure (IaC) for [Spring + React App](https://github.com/sharmadivyam216-dot/aws-devops-project/) project.
 
 
 ## 🏗️ Architecture Diagram

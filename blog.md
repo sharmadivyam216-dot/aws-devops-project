@@ -177,16 +177,10 @@ This wasn’t just about “getting it to work” — it was about proving you c
 * Security and cost optimization must be designed in, not patched later
 * Monitoring turns chaos into control
 
-Check out the [source code](https://github.com/HasanAshab/three-tier-devops-aws) at GitHub for more details.
+Check out the [source code](https://github.com/sharmadivyam216-dot/aws-devops-project) at GitHub for more details.
 
 
 ---
 
-## 📬 Contact
 
-If you’d like to connect, collaborate, or discuss DevOps, feel free to reach out:
-
-* **Website**: [hasan-ashab](https://hasan-ashab.vercel.app/)
-* **GitHub**: [github.com/HasanAshab](https://github.com/HasanAshab/)
-* **LinkedIn**: [linkedin.com/in/hasan-ashab](https://linkedin.com/in/hasan-ashab/)
 
