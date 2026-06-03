@@ -1,6 +1,7 @@
 # Three-Tier DevOps AWS Project
-[![Frontend CI](https://github.com/HasanAshab/three-tier-devops-aws/actions/workflows/frontend-cicd.yaml/badge.svg)](https://github.com/HasanAshab/three-tier-devops-aws/actions/workflows/frontend-cicd.yaml)
-[![Backend CI](https://github.com/HasanAshab/three-tier-devops-aws/actions/workflows/backend-cicd.yaml/badge.svg)](https://github.com/HasanAshab/three-tier-devops-aws/actions/workflows/backend-cicd.yaml)
+
+
+
 
 A comprehensive DevOps implementation showcasing modern cloud infrastructure, CI/CD pipelines, and Infrastructure as Code (IaC) practices for a three-tier web application on AWS.
 
