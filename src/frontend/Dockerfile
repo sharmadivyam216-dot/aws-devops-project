@@ -4,7 +4,7 @@ FROM node:18 AS base
 WORKDIR /app
 
 # install dependencies
-COPY package*.json .
+COPY package*.json ./
 RUN npm i
 
 # copy source
